@@ -17,6 +17,7 @@ This repo tracks my hands-on learning through TryHackMe as I build my skills to 
 #### 2. **Search Skills**
 - Learned how to search logs and files using tools like `grep` and `find`
 - Practiced identifying useful keywords in real-world log samples
+- [Linux Fundamentals Part 1 - TryHackMe](linux-fundamentals-part1-priscillaonokayeigho.md)
 
 ---
 
